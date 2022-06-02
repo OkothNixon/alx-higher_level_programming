@@ -40,6 +40,18 @@ All your files must be executable
 The length of your files will be tested using wc
 
 
+                        Commit Messages 
+    1. $ git commit -m "task 1 0" =first commit on task 1
+    2. $ git commit -m "task 1 1" =second commit on task 1
+    3. $ git commit -m "task 1 2" =third commit on task 1
+    4. $ git commit -m "task 1 3" =fourth commit on task 1
+    5. $ git commit -m "task 1 4" =fift commit on task 1
+    6. $ git commit -m "task 1 5" =sixth commit on task 1
+    7. $ git commit -m "task 1 6" =seventh commit on task 1
+
+#use commit messages as reference
+
+
 Tasks
 TASK 0.Import a simple function from a simple file
 
