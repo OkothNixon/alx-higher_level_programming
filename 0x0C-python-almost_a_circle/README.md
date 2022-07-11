@@ -100,6 +100,3 @@ What you should learn from this project:
 * Update the class Base by adding the static method def draw(list_rectangles, list_squares): that opens a window and draws all the Rectangles and Squares:
 
 ---
-
-## Author
-* **Jhonatan Arenas** - [cybernuki](https://github.com/cybernuki)
